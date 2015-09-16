@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapacityPlanningGit", "CapacityPlanningGit\CapacityPlanningGit.csproj", "{760A1887-8780-4984-AAAE-90B8FB365390}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{EADCBF3F-2AF9-4BF3-9E39-200A6C529994}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{760A1887-8780-4984-AAAE-90B8FB365390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{760A1887-8780-4984-AAAE-90B8FB365390}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{760A1887-8780-4984-AAAE-90B8FB365390}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{760A1887-8780-4984-AAAE-90B8FB365390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EADCBF3F-2AF9-4BF3-9E39-200A6C529994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADCBF3F-2AF9-4BF3-9E39-200A6C529994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADCBF3F-2AF9-4BF3-9E39-200A6C529994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADCBF3F-2AF9-4BF3-9E39-200A6C529994}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
